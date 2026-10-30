@@ -1,0 +1,10 @@
+
+.env
+oauth_client.json
+token.json
+venv/
+__pycache__/
+*.pyc
+
+# Local operational data and generated reports
+*.csv
